@@ -13,12 +13,12 @@ Python библиотека для расчета термодинамическ
 ## Установка
 ### Способ 1: Установка из репозитория (требуется Git)
 ```bash
-pip install git+https://github.com/Sam-Strand/humid_air_py.git
+pip install git+https://github.com/Sam-Strand-org/humid_air_py.git
 ```
 
 ### Способ 2: Установка готового пакета (без Git)
 
-https://github.com/Sam-Strand/humid_air_py/releases/
+https://github.com/Sam-Strand-org/humid_air_py/releases/
 
 ## Пример релазизации t-d диаграммы
 ![t-d диаграмма](t-d.png)
